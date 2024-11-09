@@ -1,6 +1,5 @@
-import { div } from 'framer-motion/client';
-import React from 'react'
-import { FaHtml5, FaCss3Alt,FaReact, FaJsSquare } from 'react-icons/fa'
+import React from 'react';
+import { FaHtml5, FaCss3Alt, FaReact, FaJsSquare } from 'react-icons/fa';
 
 const skillIcons = [
     { icon: <FaHtml5 size={140} />, label: "HTML" },
@@ -8,7 +7,6 @@ const skillIcons = [
     { icon: <FaJsSquare size={140} />, label: "JavaScript" },
     { icon: <FaReact size={110} />, label: "React" }
 ];
-
 
 const Skills = () => {
   return (
@@ -29,10 +27,8 @@ const Skills = () => {
         </div>
     </div>
 </div>
-
-    
     </>
-  )
+  );
 }
 
-export default Skills
+export default Skills;
