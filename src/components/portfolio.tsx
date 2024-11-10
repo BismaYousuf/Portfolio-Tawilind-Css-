@@ -19,6 +19,14 @@ const project = [
     link: "https://panacloudwebsite.vercel.app/",
     git: "https://github.com/BismaYousuf/Panacloudwebsite",
     src: "/pics/project1.png"
+  },
+  {
+    title: "Resume Builder",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores aperiam labore veritatis laboriosam similique. Ullam iste quia dolor rem laborum.",
+    devStack: "HTML, CSS, Typescript",
+    link: "https://interactive-resume-builder-2b9g.vercel.app/",
+    git: "https://github.com/BismaYousuf/Interactive-Resume-Builder",
+    src: "/pics/project3.png"
   }
 ];
 
