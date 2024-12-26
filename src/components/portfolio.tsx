@@ -5,11 +5,11 @@ import { motion } from 'framer-motion';
 
 const project = [
   {
-    title: "Beauty Bar Saloon",
+    title: "Foodtuck",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores aperiam labore veritatis laboriosam similique. Ullam iste quia dolor rem laborum.",
-    devStack: "HTML, CSS, REACT, NEXTJS",
-    link: "https://class-assisgnment-4-and-5-d9hj.vercel.app/",
-    git: "https://github.com/BismaYousuf/class_Assisgnment-4-and-5",
+    devStack: "REACT, NEXTJS, TAILWIND CSS",
+    link: "https://ui-ux-hackathon-nine-rust.vercel.app/",
+    git: "https://github.com/BismaYousuf/UI-UX-hackathon",
     src: "/pics/project2.png"
   },
   {

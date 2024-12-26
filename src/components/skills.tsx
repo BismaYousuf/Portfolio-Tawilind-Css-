@@ -1,11 +1,17 @@
 import React from 'react';
 import { FaHtml5, FaCss3Alt, FaReact, FaJsSquare } from 'react-icons/fa';
+import { RiNextjsFill, RiTailwindCssFill } from 'react-icons/ri';
+import { SiSanity, SiTypescript } from 'react-icons/si';
 
 const skillIcons = [
     { icon: <FaHtml5 size={140} />, label: "HTML" },
     { icon: <FaCss3Alt size={140} />, label: "CSS" },
     { icon: <FaJsSquare size={140} />, label: "JavaScript" },
-    { icon: <FaReact size={110} />, label: "React" }
+    { icon: <FaReact size={110} />, label: "React" },
+    { icon: <RiNextjsFill size={140} />, label: "Next Js" },
+    { icon: <RiTailwindCssFill size={140} />, label: "Tailwind Css" },
+    { icon: <SiTypescript size={140} />, label: "Typescript" },
+    { icon: <SiSanity size={140} />, label: "Sanity" },
 ];
 
 const Skills = () => {
